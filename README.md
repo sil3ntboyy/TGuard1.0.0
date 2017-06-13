@@ -1,6 +1,10 @@
 <html>
 <h1> Install  TGuard1.0.0
 </h1><br>
-<h2>برای ران کردن به صورت  api  کد های زیر را وارد کنید</h2><br>
-<code>rm -rf ../.telegram-cli && ./launch.sh -bw</code><br>
-<i>سپس توکن را وارد کنید </i><br>
+<code>git clone https://github.com/sil3ntboyy/TGuard1.0.0.git<br>
+cd TGuard1.0.0<br>
+chmod +x launch.sh<br>
+./launch.sh install<br>
+./launch.sh
+</code><br>
+<i>  # Enter a phone number & confirmation code.</i><br>
