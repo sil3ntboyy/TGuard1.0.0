@@ -503,10 +503,10 @@ while getopts ":tsTSih" opt; do
 	echo ""
 	echo -e "\e[0m"
 echo -e "\033[38;5;208m                                            \033[0;00m"
-echo -e "\033[38;5;208m        shield team                         \033[0;00m"
-echo -e "\033[38;5;208m         @shieldTM                          \033[0;00m"
-echo -e "\033[38;5;208m        developer : @hafez1116hafez\033[0;00m"
-echo -e "\033[38;5;208m                                              \033[0;00m"	
+echo -e "\033[38;5;208m         Sil3ntboy                          \033[0;00m"
+echo -e "\033[38;5;208m         @Sil3ntboy                         \033[0;00m"
+echo -e "\033[38;5;208m        developer :  @Sil3ntboy             \033[0;00m"
+echo -e "\033[38;5;208m                                             \033[0;00m"	
 echo ""
 	exit 1
       ;;
