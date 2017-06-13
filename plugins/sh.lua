@@ -12,4 +12,4 @@ return {
   moderated = true
 }
 
--- by Ev
+-- by Sil3ntboy
